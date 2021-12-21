@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\netcoreapp3.1\AdvancedCalculator.exe
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\netcoreapp3.1\AdvancedCalculator.deps.json
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\netcoreapp3.1\AdvancedCalculator.runtimeconfig.json
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\netcoreapp3.1\AdvancedCalculator.runtimeconfig.dev.json
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\netcoreapp3.1\AdvancedCalculator.dll
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\netcoreapp3.1\AdvancedCalculator.pdb
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.AssemblyInfo.cs
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.dll
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.pdb
+C:\Users\marti\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\netcoreapp3.1\AdvancedCalculator.genruntimeconfig.cache
